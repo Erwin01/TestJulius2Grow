@@ -1,0 +1,1 @@
+﻿Esta Carpeta es para poder alojar los documentos a un servidor ya sea Amazon, Azure entre otros.
